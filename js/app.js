@@ -41,3 +41,4 @@ const retornaArreglo = () =>{
 
 const [ letras, numeros ] = retornaArreglo();
 console.log(letras,numeros);
+
